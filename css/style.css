@@ -1,0 +1,21 @@
+body{
+  transition: all 1s ease-in-out;
+}
+
+#zaman{
+  color:#fff;
+  font-size: 100px;
+  text-align: center;
+  line-height: 100%;
+  font-family: Arial;
+  font-weight: 100;
+  letter-spacing: 10px;
+}
+
+#colorhex{
+  font-family: Arial;
+  font-weight: 100;
+  color:#fff;
+  font-size: 15px;
+  text-align:center;
+}
